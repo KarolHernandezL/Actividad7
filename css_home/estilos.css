@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    background-color: #f0e9fc;
+}
+
+.titulo1{
+    font-size:25px ;
+    text-align: center;
+}
+
+.titulo2{
+    color: rgb(58, 14, 100);
+    font-size:30px ;
+    font-family: cursive;
+    background-color: rgb(239, 226, 245);
+}
+
+.titulo3{
+    color:rgb(58, 14, 100);
+    font-size:30px;
+    font-family: cursive;
+    background-color:rgb(239, 226, 245);
+}
+
+.parrafo1{
+    font-size:22px;
+    background-color:rgb(239, 226, 245);
+}
+
+.parrafo2{
+    font-size:22px;
+    background-color: rgb(239, 226, 245);
+}

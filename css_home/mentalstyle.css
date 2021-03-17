@@ -1,0 +1,39 @@
+.z-depth-3{
+    background-color:rgb(255, 248, 246)
+}
+
+body {
+    margin: 0;
+    background-color: #f0e9fc;
+}
+.titulo1{
+    text-align: center;
+    font-family: cursive;
+}
+
+.titulo2{
+    text-align: center;
+    font-family: cursive;
+}
+
+.parrafo1{
+    text-align: center;
+    font-size: 18px;
+}
+
+.parrafo2{
+    font-size: 18px;
+}
+
+.parrafo3{
+    color: rgb(10, 133, 92);
+}
+
+
+.imagen7{
+    text-align: center;
+}
+
+.lista{
+    font-size: 18px;
+}
